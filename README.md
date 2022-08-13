@@ -28,4 +28,10 @@ Just replace the lib/app/theme/color_schemes/color_schemes.g.dart file to yours
 
 ## ToDos
 
-- [ ] Theme
+- [x] Theme Provider
+- [ ] Dependency Injection
+- [ ] Localization
+- [ ] Basic Services
+- [ ] Coverage
+- [ ] Linter
+- [ ] Test Folder Structure

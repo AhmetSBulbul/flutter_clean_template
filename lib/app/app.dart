@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_clean_template/app/screens/counter/counter_screen.dart';
 
 import 'theme/theme.dart';
 
@@ -31,7 +32,7 @@ class _AppState extends State<App> {
                 theme: theme.light(),
                 darkTheme: theme.dark(),
                 themeMode: theme.themeMode(),
-                home: const MyHomePage(title: 'Flutter Demo Home Page'),
+                home: const CounterScreen(),
               );
             },
           ),
