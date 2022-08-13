@@ -2,7 +2,6 @@
 ## Under Development !
 
 ## Folder Structure
-
 ```bash
 lib
 ├── core
@@ -19,6 +18,13 @@ lib
 ├── app
 └── features
 ```
+
+## Theme
+
+### Color Schemes
+You can use the generated color scheme file from https://m3.material.io/theme-builder#/custom
+
+Just replace the lib/app/theme/color_schemes/color_schemes.g.dart file to yours
 
 ## ToDos
 
